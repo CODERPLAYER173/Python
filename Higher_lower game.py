@@ -1,5 +1,5 @@
-import art
-import game_data
+
+import higher_lowergame_data
 import random
 r = random.randint(0,24)
 n = random.randint(25,49)
