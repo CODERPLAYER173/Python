@@ -11,7 +11,7 @@ def multiply(n1,n2):
 def divide(n1,n2):
     return n1/n2
 #Taking input for first time
-print(art.logo)
+
 first_number = float(input("Pls type the first Number \n"))
 if first_number == type(str):
     print("Invalid Input")
