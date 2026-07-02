@@ -1,6 +1,4 @@
-import art
 
-print(art.logo)
 
 name = input("Enter your name here-:\n").lower()
 bidding_value = int(input("Enter your bid-:\n$"))
